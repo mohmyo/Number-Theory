@@ -9,6 +9,8 @@ Content of this repo.
   
 2. Solving Linear congurnces
 
+    ax = b (mod m)
+
 3. Chinese remainder theroem 
 
 4. Primitive Pythagorean Triples
